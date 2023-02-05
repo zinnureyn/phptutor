@@ -10,6 +10,8 @@
 
 <body>
 
+//add javascript file
+    <script src="js/bootstrap.js"></script>
 </body>
 
 </html>
