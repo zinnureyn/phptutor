@@ -10,8 +10,22 @@
 </head>
 
 <body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h1>Php Tutor</h1>
+                <p>Php Tutor is a website that provides free tutorials for php</p>
+                <h1>For Loop</h1>
+              
+                <p>For Loop  doing same pattern same way and give a dynamic solution.For example;</p>
+                
+               
+            </div>
+        </div>
+    </div>
+    
 
-//add javascript file
+
 <script type="text/javascript" src="js/bootstrap.min.js"></script>
 </body>
 
